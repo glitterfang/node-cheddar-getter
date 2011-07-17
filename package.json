@@ -1,0 +1,9 @@
+{ "name" : "cheddar-getter"
+, "version" : "0.0.1"
+, "main" : "./lib/client.js"
+, "description" : "cheddar getter api with node."
+, "dependencies" : { 
+    "request" : "1.9.8" 
+    , "xml2js" : "0.1.9"
+  }
+}
