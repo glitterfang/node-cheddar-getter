@@ -8,10 +8,12 @@ Feel free to add your own, and I'll pull them in.
 
 It's not on npm yet.
 
-**usage*
-Client = require 'cheddar-getter'
+**usage**
+
+
 
 ```coffeescript
+Client = require 'cheddar-getter'
 client = new Client 'FOO' # Pass the code of the product you want to work with.
 client.authenticate 'username', 'password'
 
