@@ -1,6 +1,6 @@
 **node-cheddar-getter: a simple client**
 
-Write now the project is pretty simple.  It's basically a wrapper class that combines `request` with `xml2js`.
+Right now the project is pretty simple.  It's basically a wrapper class that combines `request` with `xml2js`.
 
 I'll be adding convience functions as I need them.
 
