@@ -6,7 +6,8 @@ I'll be adding convience functions as I need them.
 
 Feel free to add your own, and I'll pull them in.
 
-It's not on npm yet.
+** install **
+`npm install cheddar-getter`
 
 **usage**
 
